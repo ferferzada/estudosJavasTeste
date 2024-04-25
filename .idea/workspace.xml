@@ -5,15 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19fbb601-0621-46d2-9ec6-91eebe6449d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/cesul/lista04/ex02/SeriorityLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/cesul/lista04/ex02/SalesmanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/cesul/lista04/ex02/Salesman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/cesul/lista04/ex02/Salesman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -28,14 +43,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aluno-cesul\Desktop\estudosJavasTeste\src\main\java" />
+      <recent name="C:\Users\aluno-cesul\Desktop\estudosJavasTeste\src" />
+      <recent name="C:\Users\aluno-cesul\Desktop\estudosJavasTeste\src\br.cesul" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SalesmanTest">
+    <configuration name="LoanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudosJavasTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.cesul.lista04.ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.cesul.lista04.ex01" />
+      <option name="MAIN_CLASS_NAME" value="br.cesul.lista04.ex01.LoanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanTest.setup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudosJavasTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.cesul.lista04.ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.cesul.lista04.ex01" />
+      <option name="MAIN_CLASS_NAME" value="br.cesul.lista04.ex01.LoanTest" />
+      <option name="METHOD_NAME" value="setup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesmanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudosJavasTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.cesul.lista04.ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.cesul.lista04.ex02" />
+      <option name="MAIN_CLASS_NAME" value="br.cesul.lista04.ex02.SalesmanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesmanTest.getCorrectFinalSalaryNotMetaOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudosJavasTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.cesul.lista04.ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.cesul.lista04.ex02" />
+      <option name="MAIN_CLASS_NAME" value="br.cesul.lista04.ex02.SalesmanTest" />
+      <option name="METHOD_NAME" value="getCorrectFinalSalaryNotMetaOver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesmanTest.setup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudosJavasTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.cesul.lista04.ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.cesul.lista04.ex02" />
+      <option name="MAIN_CLASS_NAME" value="br.cesul.lista04.ex02.SalesmanTest" />
+      <option name="METHOD_NAME" value="setup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SalesmanTest" />
+        <item itemvalue="JUnit.SalesmanTest.getCorrectFinalSalaryNotMetaOver" />
+        <item itemvalue="JUnit.SalesmanTest.setup" />
+        <item itemvalue="JUnit.LoanTest.setup" />
+        <item itemvalue="JUnit.LoanTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +163,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713487692059</updated>
+      <workItem from="1713487693201" duration="3876000" />
+      <workItem from="1714083592355" duration="3903000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/estudosJavasTeste$LoanTest_createsLoanWithCorrectAttibutes.ic" NAME="LoanTest.createsLoanWithCorrectAttibutes Coverage Results" MODIFIED="1713490061443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.cesul.lista04.ex01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/estudosJavasTeste$SalesmanTest.ic" NAME="SalesmanTest Coverage Results" MODIFIED="1714087434305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.cesul.lista04.ex02.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/estudosJavasTeste$SalesmanTest_getCorrectFinalSalaryNotMetaOver.ic" NAME="SalesmanTest.getCorrectFinalSalaryNotMetaOver Coverage Results" MODIFIED="1714087359863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.cesul.lista04.ex02.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/estudosJavasTeste$LoanTest.ic" NAME="LoanTest Coverage Results" MODIFIED="1713490268560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.cesul.lista04.ex01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/estudosJavasTeste$SalesmanTest_setup.ic" NAME="SalesmanTest.setup Coverage Results" MODIFIED="1714086807430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.cesul.lista04.ex02.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/estudosJavasTeste$LoanTest_calcutatesLoanInstallmentValueCorretly.ic" NAME="LoanTest.calcutatesLoanInstallmentValueCorretly Coverage Results" MODIFIED="1713490051607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.cesul.lista04.ex01.*</FILTER>
+    </SUITE>
   </component>
 </project>
