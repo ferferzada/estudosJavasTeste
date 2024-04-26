@@ -54,4 +54,10 @@ public class SalesmanTest {
         assertEquals(1000.00,salesmanSenior.getFinalSale(),0.01);
     }
 
+    @AfterEach
+    public void tearDown(){
+        this.salesmanMidLevel = null;
+        this.salesmanJunior=null;
+        this.salesmanSenior=null;
+    }
 }
